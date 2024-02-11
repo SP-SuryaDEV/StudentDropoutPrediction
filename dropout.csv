@@ -1,0 +1,8 @@
+Name,Course,Email,Displaced,Debtor,Tuition fees up to date,Gender,Scholarship holder,Age at enrollment,Curricular units 1st sem (approved),Curricular units 1st sem (grade),Curricular units 2nd sem (approved),Curricular units 2nd sem (grade),Student Remark,Hobbies,predicted_target
+Prithvi,CSE,jofraarcher04@gmail.com,immigrant,no,paid,female,no,20,0,0.0,0,0.0,Fair,Dancing,dropout
+Neha,EEE,NehaEEE@example.com,immigrant,no,not paid,female,no,19,0,0.0,0,0.0,Work more on weak parts,Reading,dropout
+Aryan,EEE,AryanEEE@example.com,immigrant,no,not paid,female,no,22,0,0.0,0,0.0,Good,Music,dropout
+Rahul,ECE,RahulECE@example.com,immigrant,yes,not paid,male,no,18,5,11.4,2,13.5,Work more on weak parts,Chess,dropout
+Ananya,ECE,AnanyaECE@example.com,immigrant,no,paid,male,no,19,0,0.0,0,0.0,Work more on weak parts,Swimming,dropout
+Surya,ECE,suryaprabhakarangm@gmail.com,immigrant,no,paid,male,no,20,5,13.2,0,0.0,Good,Gaming,dropout
+Kavya,CSE,KavyaCSE@example.com,native,no,paid,male,yes,21,0,0.0,0,0.0,Work more on weak parts,Birdwatching,dropout

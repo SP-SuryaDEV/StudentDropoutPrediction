@@ -1,0 +1,21 @@
+Name,Course,Email,Displaced,Debtor,Tuition fees up to date,Gender,Scholarship holder,Age at enrollment,Curricular units 1st sem (approved),Curricular units 1st sem (grade),Curricular units 2nd sem (approved),Curricular units 2nd sem (grade),Student Remark,Hobbies,predicted_target
+Prithvi,CSE,jofraarcher04@gmail.com,immigrant,no,paid,female,no,20,0,0.0,0,0.0,Fair,Dancing,dropout
+Aravind,ECE,AravindECE@example.com,immigrant,no,not paid,female,no,19,6,14.0,6,13.66666667,Good,Archery,graduate
+Neha,EEE,NehaEEE@example.com,immigrant,no,not paid,female,no,19,0,0.0,0,0.0,Work more on weak parts,Reading,dropout
+Rohan,CSE,RohanCSE@example.com,immigrant,no,paid,male,no,20,6,13.42857143,5,12.4,Good,Basketball,graduate
+Priya,ECE,PriyaECE@example.com,immigrant,no,paid,male,yes,18,7,13.3,8,14.345,Work Hard,Dancing,graduate
+Aryan,EEE,AryanEEE@example.com,immigrant,no,not paid,female,no,22,0,0.0,0,0.0,Good,Music,dropout
+Deepika,CSE,DeepikaCSE@example.com,native,no,paid,male,yes,21,6,13.875,6,14.14285714,Good,Painting,graduate
+Rahul,ECE,RahulECE@example.com,immigrant,yes,not paid,male,no,18,5,11.4,2,13.5,Work more on weak parts,Chess,dropout
+Pooja,EEE,PoojaEEE@example.com,immigrant,no,paid,male,no,18,6,12.33333333,5,14.2,Work Hard,Cooking,graduate
+Karthik,CSE,KarthikCSE@example.com,immigrant,no,paid,male,yes,18,7,13.21428571,7,13.21428571,Good,Photography,graduate
+Ananya,ECE,AnanyaECE@example.com,immigrant,no,paid,male,no,19,0,0.0,0,0.0,Work more on weak parts,Swimming,dropout
+Aditya,EEE,AdityaEEE@example.com,immigrant,no,paid,male,yes,21,6,10.57142857,5,11.0,Good,Traveling,graduate
+Meera,CSE,MeeraCSE@example.com,immigrant,no,paid,male,yes,18,4,13.25,5,12.0,Work Hard,Singing,graduate
+Surya,ECE,suryaprabhakarangm@gmail.com,immigrant,no,paid,male,no,20,5,13.2,0,0.0,Good,Gaming,dropout
+Shivani,EEE,ShivaniEEE@example.com,immigrant,no,paid,male,no,18,1,12.0,2,11.0,Work more on weak parts,Trekking,graduate
+Raghav,CSE,RaghavCSE@example.com,immigrant,no,paid,male,no,18,7,13.30625,8,14.545,Good,Cycling,graduate
+Sanjana,ECE,SanjanaECE@example.com,immigrant,no,paid,male,no,20,4,12.5,4,12.25,Work Hard,Gardening,graduate
+Akash,EEE,AkashEEE@example.com,immigrant,no,paid,male,no,18,6,11.66666667,6,13.5,Good,Yoga,graduate
+Kavya,CSE,KavyaCSE@example.com,native,no,paid,male,yes,21,0,0.0,0,0.0,Work more on weak parts,Birdwatching,dropout
+Varun,ECE,VarunECE@example.com,immigrant,no,paid,male,no,20,7,11.4375,8,11.425,Work Hard,Hiking,graduate
