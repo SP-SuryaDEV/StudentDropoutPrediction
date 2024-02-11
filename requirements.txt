@@ -1,6 +1,5 @@
 pillow
 numpy
 pandas
-pickle
 sklearn
 
