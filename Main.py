@@ -71,7 +71,7 @@ st.sidebar.markdown(
 
       Please Note that this website is under extensive development and many contain bugs and sloppy interface at certain junctures if you encounter such bugs contact us through the mail enlisted below
 
-      Support : abc@gmail.com
+      Support : jofraarcher04@gmail.com
     """, 
     unsafe_allow_html=True
 )
