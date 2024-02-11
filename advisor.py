@@ -159,7 +159,7 @@ class StudentReportMaker:
     def run(self):
         st.title("Student Report Maker")
         photo_placeholder = st.empty()
-        uploaded_file = st.file_uploader("Upload CSV file", type=["csv"])
+        uploaded_file = 'dropout.csv'
         if uploaded_file is not None:
             df = StudentReportMaker.load_data(uploaded_file)
             st.subheader("Select a student:")
